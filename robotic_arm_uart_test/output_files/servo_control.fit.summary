@@ -1,0 +1,16 @@
+Fitter Status : Successful - Sat May 11 20:31:04 2024
+Quartus Prime Version : 22.1std.2 Build 922 07/20/2023 SC Lite Edition
+Revision Name : servo_control
+Top-level Entity Name : servo_control
+Family : Cyclone IV E
+Device : EP4CE6F17C8
+Timing Models : Final
+Total logic elements : 154 / 6,272 ( 2 % )
+    Total combinational functions : 147 / 6,272 ( 2 % )
+    Dedicated logic registers : 82 / 6,272 ( 1 % )
+Total registers : 82
+Total pins : 4 / 180 ( 2 % )
+Total virtual pins : 0
+Total memory bits : 1,536 / 276,480 ( < 1 % )
+Embedded Multiplier 9-bit elements : 0 / 30 ( 0 % )
+Total PLLs : 0 / 2 ( 0 % )
